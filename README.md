@@ -1,6 +1,6 @@
 # How To Run
 
-### how to run the codes and the command lines and outputs of all the instances we had tested on with our codes:
+## how to run the codes and the command lines and outputs of all the instances we had tested on with our codes:
 
 main instance we used to test (4 by 4 grid, 2 robots, 2 pickingstations, 5 shelves, 3 products, 5 orders)
 ```sh
